@@ -5,3 +5,4 @@ birkaç deneme
 4çgün denemesi
 5. gün yeni bişeyler
 ekleme 1
+yeni
