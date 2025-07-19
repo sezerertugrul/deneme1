@@ -6,3 +6,4 @@ birkaç deneme
 5. gün yeni bişeyler
 ekleme 1
 yeni
+son şekil
