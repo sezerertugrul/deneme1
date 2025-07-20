@@ -7,3 +7,4 @@ birkaç deneme
 ekleme 1
 yeni
 son şekil
+deneme 6
