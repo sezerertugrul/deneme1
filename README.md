@@ -69,3 +69,4 @@ deneme 68
 deneme 69
 deneme 70
 deneme 71
+deneme 72
