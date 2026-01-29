@@ -190,3 +190,4 @@ deneme 188
 deneme 189
 deneme190
 deneme 191
+deneme 192
