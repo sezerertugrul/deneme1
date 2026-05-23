@@ -296,3 +296,4 @@ son 5
 son 6
 son 7
 son bakış
+son bakış1
