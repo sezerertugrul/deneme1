@@ -305,3 +305,4 @@ son bakış3
 4
 5
 6 son
+7 son
