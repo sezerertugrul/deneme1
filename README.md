@@ -309,3 +309,4 @@ son bakış3
 8 son
 son
 son ki denemesonu geldi
+Bakım gerekecek
