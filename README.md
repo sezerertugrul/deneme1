@@ -310,3 +310,4 @@ son bakış3
 son
 son ki denemesonu geldi
 Bakım gerekecek
+Bakım zamanı geldi
