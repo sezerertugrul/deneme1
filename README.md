@@ -311,3 +311,4 @@ son
 son ki denemesonu geldi
 Bakım gerekecek
 Bakım zamanı geldi
+Tamamlandı
