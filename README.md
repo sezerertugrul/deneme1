@@ -313,3 +313,4 @@ Bakım gerekecek
 Bakım zamanı geldi
 Tamamlandı
 son işlem tekrarı
+tekrar 1
