@@ -317,3 +317,4 @@ tekrar 1
 tekrar 2
 tekrar 3
 3+2
+3+3
