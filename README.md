@@ -1,4 +1,4 @@
-deneme son21deneme son# deneme1    4567
+deneme son21deneme son# deneme1    4567     Terkrarlanan blok
 kahramalar yanlız olmamalı
 kahraman asker swayk
 birkaç deneme
