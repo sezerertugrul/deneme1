@@ -1,5 +1,5 @@
 deneme son21deneme son# deneme1    4567     Terkrarlanan blok
-kahramalar yanlız olmamalı
+kahramalar yanlız olmamalı  Tekrarlanan block sonu
 kahraman asker swayk
 birkaç deneme
 4çgün denemesi
