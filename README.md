@@ -1,7 +1,7 @@
 deneme son21deneme son# deneme1    4567     Terkrarlanan blok
 kahramalar yanlız olmamalı  Tekrarlanan block sonu
 kahraman asker swayk son block kontrolu
-birkaç deneme
+birkaç deneme kontrol
 4çgün denemesi
 5. gün yeni bişeyler
 ekleme 1
