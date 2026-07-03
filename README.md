@@ -4,7 +4,7 @@ kahraman asker swayk son block kontrolu
 birkaç deneme kontrol   son derf
 4çgün denemesi   1x1
 5. gün yeni bişeyler
-ekleme 1
+ekleme 1  yeni rota
 yeni
 son şekil
 deneme 6
