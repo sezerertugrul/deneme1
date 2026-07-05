@@ -6,7 +6,7 @@ birkaç deneme kontrol   son derf
 5. gün yeni bişeyler
 ekleme 1  yeni rota
 yeni   son çıkış
-son şekil
+son şekil beklemek son dakika
 deneme 6
 11. gün denemesi
 12. deneme
