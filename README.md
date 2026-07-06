@@ -7,7 +7,7 @@ birkaç deneme kontrol   son derf
 ekleme 1  yeni rota
 yeni   son çıkış
 son şekil beklemek son dakika
-deneme 6
+deneme 6  beklemeye devam
 11. gün denemesi
 12. deneme
 deneme 13
