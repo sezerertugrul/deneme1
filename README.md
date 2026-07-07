@@ -8,7 +8,7 @@ ekleme 1  yeni rota
 yeni   son çıkış
 son şekil beklemek son dakika
 deneme 6  beklemeye devam
-11. gün denemesi
+11. gün denemesi  deneme sona yaklaştı
 12. deneme
 deneme 13
 deneme14
