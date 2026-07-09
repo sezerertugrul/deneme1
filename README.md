@@ -9,7 +9,8 @@ yeni   son çıkış
 son şekil beklemek son dakika
 deneme 6  beklemeye devam
 11. gün denemesi  deneme sona yaklaştı
-12. deneme
+12. deneme  birkez daha bakılacak
+
 deneme 13
 deneme14
 deneme 15
