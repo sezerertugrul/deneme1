@@ -11,7 +11,7 @@ deneme 6  beklemeye devam
 11. gün denemesi  deneme sona yaklaştı
 12. deneme  birkez daha bakılacak
 
-deneme 13
+deneme 13 son bakış kontrolu
 deneme14
 deneme 15
 deneme 16
