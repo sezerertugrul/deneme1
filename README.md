@@ -12,7 +12,7 @@ deneme 6  beklemeye devam
 12. deneme  birkez daha bakılacak
 
 deneme 13 son bakış kontrolu
-deneme14
+deneme14   bibir
 deneme 15
 deneme 16
 deneme 17
