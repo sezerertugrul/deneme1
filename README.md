@@ -13,7 +13,7 @@ deneme 6  beklemeye devam
 
 deneme 13 son bakış kontrolu
 deneme14   bibir
-deneme 15
+deneme 15 x
 deneme 16
 deneme 17
 deneme 18
