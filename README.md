@@ -15,7 +15,7 @@ deneme 13 son bakış kontrolu
 deneme14   bibir
 deneme 15 x
 deneme 16 xwet
-deneme 17
+deneme 17 son denemeler bitiyor
 deneme 18
 deneme 19
 deneme 20
