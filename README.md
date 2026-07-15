@@ -1,4 +1,4 @@
-deneme son21deneme son# deneme1    4567     Terkrarlanan blok
+deneme son21deneme son# deneme1    4567     Terkrarlanan blok  satır tekrarı
 kahramalar yanlız olmamalı  Tekrarlanan block sonu
 kahraman asker swayk son block kontrolu
 birkaç deneme kontrol   son derf
