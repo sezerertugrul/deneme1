@@ -16,7 +16,7 @@ deneme14   bibir
 deneme 15 x
 deneme 16 xwet
 deneme 17 son denemeler bitiyor
-deneme 18
+deneme 18  sona yakın
 deneme 19
 deneme 20
 deneme 21
