@@ -20,7 +20,7 @@ deneme 18  sona yakın
 deneme 19  bekleme zamanı geldi
 deneme 20   bekleme 1
 deneme 21  bekleme 2
-deneme 22
+deneme 22 karmaşık yapı
 deneme 23
 deneme 24
 deneme 25
