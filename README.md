@@ -22,7 +22,7 @@ deneme 20   bekleme 1
 deneme 21  bekleme 2
 deneme 22 karmaşık yapı
 deneme 23 deneme sırasındalar
-deneme 24
+deneme 24 tekrarlanan satır
 deneme 25
 deneme 26
 deneme27
