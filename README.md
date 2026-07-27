@@ -25,7 +25,7 @@ deneme 23 deneme sırasındalar
 deneme 24 tekrarlanan satır
 deneme 25  son bakış
 deneme 26  sonadan hata var
-deneme27
+deneme27  son çıkış
 deneme 28
 deneme29
 30
