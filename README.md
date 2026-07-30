@@ -28,7 +28,8 @@ deneme 26  sonadan hata var
 deneme27  son çıkış
 deneme 28 son bakış
 deneme29  bakış
-30
+30  yeniden denenecek
+
 31 deneme
 32 deneme
 33 deneme
