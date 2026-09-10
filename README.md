@@ -336,3 +336,4 @@ tekrar 3
 3+10+8
 3+11+....
 3 sonsuz çıkmalar oluştu
+Sonuç alınamadı
