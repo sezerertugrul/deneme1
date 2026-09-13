@@ -337,3 +337,4 @@ tekrar 3
 3+11+....
 3 sonsuz çıkmalar oluştu
 Sonuç alınamadı
+tekrar başlayacak
