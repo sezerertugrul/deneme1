@@ -338,3 +338,4 @@ tekrar 3
 3 sonsuz çıkmalar oluştu
 Sonuç alınamadı
 tekrar başlayacak
+1+1 tekrar
