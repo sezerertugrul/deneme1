@@ -339,3 +339,4 @@ tekrar 3
 Sonuç alınamadı
 tekrar başlayacak
 1+1 tekrar
+1+2 tekrarı
