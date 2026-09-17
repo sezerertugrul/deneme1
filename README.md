@@ -340,3 +340,4 @@ Sonuç alınamadı
 tekrar başlayacak
 1+1 tekrar
 1+2 tekrarı
+1+3 tekrarı en baştan
