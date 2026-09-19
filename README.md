@@ -342,3 +342,4 @@ tekrar başlayacak
 1+2 tekrarı
 1+3 tekrarı en baştan
 sutun tekrarları
+Tekrarlanan sutün hatası oldu
