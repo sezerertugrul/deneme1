@@ -344,3 +344,4 @@ tekrar başlayacak
 sutun tekrarları
 Tekrarlanan sutün hatası oldu
 hataya bakılıyor
+hata tesbit edildi
