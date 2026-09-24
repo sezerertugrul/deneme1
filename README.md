@@ -347,3 +347,4 @@ hataya bakılıyor
 hata tesbit edildi
 son tekrar
 2.tekrar başladı
+devam ediyor
