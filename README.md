@@ -350,3 +350,4 @@ son tekrar
 devam ediyor
 bakımda
 devam ediyor
+bugün kontrolde
