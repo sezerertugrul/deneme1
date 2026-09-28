@@ -351,3 +351,4 @@ devam ediyor
 bakımda
 devam ediyor
 bugün kontrolde
+kontrol devam ediyor
