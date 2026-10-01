@@ -354,3 +354,4 @@ bugün kontrolde
 kontrol devam ediyor
 bugün yeni kontrol var
 Kontrolda sorun var
+tekrarlanıyor
