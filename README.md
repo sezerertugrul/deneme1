@@ -356,3 +356,4 @@ bugün yeni kontrol var
 Kontrolda sorun var
 tekrarlanıyor
 bugün tekrarlandı 1
+Tekrarlama 2
