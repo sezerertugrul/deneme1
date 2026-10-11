@@ -364,3 +364,4 @@ yenileme başladı
 devam ediyor
 tekranlanmada
 bugün normal göründü
+Herşey normal
