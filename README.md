@@ -369,3 +369,4 @@ tekrar başlandı
 xwet deneme
 Denemeye devam
 devam ettim
+tekrarlama başladı
