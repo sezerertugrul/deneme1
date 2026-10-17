@@ -370,3 +370,4 @@ xwet deneme
 Denemeye devam
 devam ettim
 tekrarlama başladı
+tekrarlama1.gün
