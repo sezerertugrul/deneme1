@@ -397,3 +397,4 @@ son bakış deneme
 blok satır
 tekrarlanan
 yeni bişeyler ekleme
+kahramalar yanlız olmamalı
