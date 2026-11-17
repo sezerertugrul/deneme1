@@ -400,3 +400,4 @@ yeni bişeyler ekleme
 kahramalar yanlız olmamalı
 onchain creativity
 kaynak arayışı
+onchain creativity
